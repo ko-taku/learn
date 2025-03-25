@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+스마트 컨트랙트
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+LearnContractModule#LearnContract - 0x2c2C42E5Dbe91deD96Aaf34de65c4c9360cC74A6
 
-Try running some of the following tasks:
+SepoliaContractModule#SepoliaContract - 0x567Ef20aB4DF6561AfFe4CBa7103204581287caB
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+KairosContractModule#KairosContract - 0xCeD7f3d97c33b560b334A024BAdb84bEbF420b4A
